@@ -1,5 +1,5 @@
 ## Introduction
-This is the source code of our IEEE TCSVT 2019 paper "Bridge-GAN: Interpretable Representation Learning for Text-to-image Synthesis". Please cite the following papers if you use our code.
+This is the source code of our IEEE TCSVT 2019 paper "Bridge-GAN: Interpretable Representation Learning for Text-to-image Synthesis". Please cite the following paper if you use our code.
 
 Mingkuan Yuan and Yuxin Peng, "Bridge-GAN: Interpretable Representation Learning for Text-to-image Synthesis", IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), DOI:10.1109/TCSVT.2019.2953753, Nov. 2019. [[pdf]](http://59.108.48.34/tiki/download_paper.php?fileId=201922)
 
@@ -22,7 +22,7 @@ Run the following command:
     - sh data_preprocess.sh
 
 ## Training
-    - run sh train_all.sh to train the model
+    - run 'sh train_all.sh' to train the model
     
 ### Trained Model
 Download our [trained model](https://drive.google.com/open?id=1XD53s2SfJK8KRTSYBA4uQciPQzFZLOLl) to code/results/00000-bgan-cub-cond-2gpu/ for evaluation
@@ -35,7 +35,7 @@ Python 2.7.12
 TensorFlow 1.2.1
 
 ## Evaluation
-    - run sh test_all.sh to evaluate the final inception score
+    - run 'sh test_all.sh' to evaluate the final inception score
     
 ## Our Related Work
 If you are interested in text-to-image synthesis, you can check our recently published papers about it:
