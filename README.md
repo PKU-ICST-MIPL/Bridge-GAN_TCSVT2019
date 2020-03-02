@@ -45,3 +45,6 @@ Mingkuan Yuan and Yuxin Peng, "CKD: Cross-task Knowledge Distillation for Text-t
 Mingkuan Yuan and Yuxin Peng, "Text-to-image Synthesis via Symmetrical Distillation Networks", 26th ACM Multimedia Conference (ACM MM), pp. 1407-1415, Seoul, Korea, Oct. 22-26, 2018. [[pdf]](http://59.108.48.34/tiki/download_paper.php?fileId=201820)
 
 Welcome to our [Laboratory Homepage](http://www.icst.pku.edu.cn/mipl) for more information about our papers, source codes, and datasets.
+
+## Acknowledgement
+Our project borrows some source files from [StyleGAN](https://github.com/NVlabs/stylegan). We thank the authors.
